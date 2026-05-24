@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+venv/
+.env
+
+# Audio/temp
+temp.wav
+
+# Models
+pretrained_models/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Secrets
+.env
+*.env
+
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+.env
